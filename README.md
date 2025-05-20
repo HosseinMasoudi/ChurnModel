@@ -1,2 +1,2 @@
 # ChurnModel
-Aclassification model for churn
+classification model for churn
