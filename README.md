@@ -1,8 +1,3 @@
-# ChurnModel
-Absolutely! Here's a polished and professional version of your README `README.md` text, based on our full project history and the points you provided:
-
----
-
 ##  Customer Churn Classification Project
 
 This is my **final project** from a machine learning course, where I applied everything I learned by building a real-world churn prediction system.
